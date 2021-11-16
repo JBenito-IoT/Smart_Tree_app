@@ -22,7 +22,7 @@
           </a>
         </li>
 
-        <li class="header-title">Sidebar Mini</li>
+        <li class="header-title">NIGHT OR DAY</li>
         <li class="adjustments-line">
           <div class="togglebutton switch-change-color mt-3">
             <span class="label-switch">LIGHT MODE</span>
@@ -33,7 +33,7 @@
 
         <li class="button-container mt-4">
           <a
-            href="https://www.creative-tim.com/learning-lab/nuxt/overview/black-dashboard"
+            href="https://github.com/JBenito-IoT"
             target="_blank"
             rel="noopener"
             class="btn btn-default btn-block btn-round"
@@ -41,7 +41,7 @@
             Documentation
           </a>
           <a
-            href="https://creative-tim.com/product/nuxt-black-dashboard"
+            href="https://github.com/JBenito-IoT"
             target="_blank"
             rel="noopener"
             class="btn btn-primary btn-block btn-round"
@@ -49,7 +49,7 @@
             Download Now
           </a>
           <a
-            href="https://creative-tim.com/product/nuxt-black-dashboard-pro"
+            href="https://github.com/JBenito-IoT/Smart_Tree_services/blob/master/install_ioticosgl.sh"
             target="_blank"
             rel="noopener"
             class="btn btn-info btn-block btn-round"

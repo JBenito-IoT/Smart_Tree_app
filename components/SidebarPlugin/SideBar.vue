@@ -2,10 +2,10 @@
   <div class="sidebar" :data="backgroundColor">
     <div class="sidebar-wrapper" ref="sidebarScrollArea">
       <div class="logo">
-        <a href="https://ioticos.org" class="simple-text logo-mini">
-          <img src="https://yt3.ggpht.com/ytc/AAUvwnjakiyR7urXlB0hxyXjpyXZI2k4eFlahDd5vfgDEQ=s900-c-k-c0x00ffffff-no-rj" alt="app-logo" />
+        <a href="https://github.com/JBenito-IoT" class="simple-text logo-mini">
+          <img src="https://greencitysolutions.de/wp-content/uploads/2021/07/CB_Ansicht2_transparent-1200x1800.png" alt="app-logo" />
         </a>
-        <a href="https://ioticos.org" class="simple-text logo-normal">
+        <a href="https://github.com/JBenito-IoT" class="simple-text logo-normal">
           {{ title }}
         </a>
       </div>
